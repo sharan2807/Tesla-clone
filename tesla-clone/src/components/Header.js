@@ -7,7 +7,20 @@ function Header() {
       <a>
         <img src="images/logo.svg" />
       </a>
-      <Menu></Menu>
+      <Menu>
+        <p>
+          <a href="#">Model S</a>
+        </p>
+        <p>
+          <a href="#">Model Y</a>
+        </p>
+        <p>
+          <a href="#">Model X</a>
+        </p>
+        <p>
+          <a href="#">Model 3</a>
+        </p>
+      </Menu>
     </Container>
   );
 }
